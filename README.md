@@ -62,7 +62,7 @@ El notebook `AluraStoreLatam.ipynb` está organizado en las siguientes secciones
 * 4. Productos más y menos vendidos (Identificación Top/Anti Top 5 y gráficos)
 * 5. Envío promedio por tienda (Cálculo y gráfico)
 * 6. ¡Extra! Análisis del desempeño geográfico (Limpieza de coordenadas, Scatter plots, Heatmaps Folium, Análisis de influencia)
-* 7. Informe Final (Síntesis y conclusión)
+* 7. Informe Final (Síntesis y recomendación)
 
 📦 **Guía de Instalación y Ejecución**
 
