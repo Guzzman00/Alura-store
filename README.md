@@ -2,7 +2,7 @@
 
 📊 **Proyecto Análisis de Tiendas Alura | Challenge Alura Latam**
 
-Un análisis exploratorio de datos y visualización interactiva desarrollado como parte del Challenge de Data Science de Alura Latam. Permite comprender el rendimiento de cuatro tiendas ficticias ("Tienda 1, Tienda 2, Tienda 3, Tienda 4") a través de diversas métricas de ventas y satisfacción.
+Un análisis exploratorio de datos y visualización interactiva desarrollado como parte del Challenge de Data Science de Alura Latam. Permite comprender el rendimiento de cuatro tiendas ficticias (Tienda 1, Tienda 2, Tienda 3, Tienda 4) a través de diversas métricas de ventas y satisfacción.
 
 👥 **Autor**
 
