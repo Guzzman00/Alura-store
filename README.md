@@ -50,6 +50,7 @@ Este proyecto cumple con todos los requisitos de análisis solicitados en el cha
 * **4. Productos más y menos vendidos:** Se identificaron y visualizaron los 5 productos con más ventas y los 5 con menos ventas en cada tienda.
 * **5. Envío promedio:** Se calculó y visualizó el costo de envío promedio para cada tienda.
 * **6. Análisis Geográfico (Extra):** Se realizó la exploración opcional de datos de latitud/longitud, generando scatter plots y heatmaps para analizar patrones geográficos de ventas y su posible influencia.
+*  **7. Informe Final:** Síntesis de análisis y recomendación justificada de tienda a vender.
 
 🔍 **Estructura del Proyecto (Notebook)**
 
@@ -77,3 +78,7 @@ El notebook `AluraStoreLatam.ipynb` está organizado en las siguientes secciones
 * Interactúa con los mapas de Folium (zoom, paneo) para explorar la distribución geográfica.
 * Lee el informe final para entender la inclinación de venta basada en los datos.
 * Puedes modificar parámetros en el código (ej. colores de gráficos, parámetros de heatmap, número de productos en Top/Anti Top) y re-ejecutar para explorar variaciones.
+
+📺 **Vista**
+
+* Las visualizaciones generadas (gráficos de barras, mapas de calor) se muestran directamente en las celdas de salida del notebook `AluraStoreLatam.ipynb` después de ejecutar el código correspondiente.
