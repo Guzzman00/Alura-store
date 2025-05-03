@@ -296,10 +296,10 @@ Puntaje final: -9 puntos
 
 Ranking (mayor a menor puntaje):
 
-1. Tienda 2 (-1 punto)
-2. Tienda 4 (-4 puntos)
-3. Tienda 3 (-6 puntos)
-4. Tienda 1 (-9 puntos)
+1). Tienda 2 (-1 punto)
+2). Tienda 4 (-4 puntos)
+3). Tienda 3 (-6 puntos)
+4). Tienda 1 (-9 puntos)
 
 5. Envío promedio por tienda
 
