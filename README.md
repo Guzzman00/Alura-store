@@ -82,3 +82,5 @@ El notebook `AluraStoreLatam.ipynb` está organizado en las siguientes secciones
 📺 **Vista**
 
 * Las visualizaciones generadas (gráficos de barras, mapas de calor) se muestran directamente en las celdas de salida del notebook `AluraStoreLatam.ipynb` después de ejecutar el código correspondiente.
+
+![1-Análisis de Facturación](1. Análisis de facturación.png)
