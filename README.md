@@ -357,6 +357,28 @@ Analice cómo las variables geográficas influyen en los ingresos y las califica
 
 ![6-5. ¡Extra! Análisis del desempeño geográfico](6-5.%20¡Extra!%20Análisis%20del%20desempeño%20geográfico.png)
 
+Tabla de ventas por ciudad y tienda
+               Tienda 1  Tienda 2  Tienda 3  Tienda 4  Total
+Bogotá              984       985       983       991   3943
+Medellín            563       594       580       577   2314
+Cali                283       222       248       254   1007
+Pereira             133       128       134       122    517
+Barranquilla         75        78        77        80    310
+Cartagena            53        70        56        63    242
+Cúcuta               51        59        44        32    186
+Bucaramanga          31        50        50        50    181
+Riohacha             40        35        44        44    163
+Santa Marta          32        40        44        35    151
+Leticia              32        34        41        35    142
+Pasto                23        25        16        30     94
+Manizales            15        13         7         6     41
+Neiva                 6         6        10        18     40
+Villavicencio        11         6         5         7     29
+Armenia              14         4         7         3     28
+Soacha                5         4         6         4     19
+Inírida               5         2         4         3     14
+Valledupar            3         4         3         4     14
+
 Influencia Geográfica en Rendimiento
 
 Influencia en Ingresos:
