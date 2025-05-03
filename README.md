@@ -111,6 +111,50 @@ Aunque todas las tiendas superan los USD 1 Millón en ingresos, la diferencia en
 
 Objetivo:En este debes calcular la cantidad de productos vendidos por categoría en cada tienda. La idea es agrupar los datos por categoría y contar el número de ventas de cada tipo, mostrando las categorías más populares de cada tienda.
 
+--- Conteo Categorías Tienda 1 --- 
+ Categoría del Producto
+Muebles                    465
+Electrónicos               448
+Juguetes                   324
+Electrodomésticos          312
+Deportes y diversión       284
+Instrumentos musicales     182
+Libros                     173
+Artículos para el hogar    171
+
+--- Conteo Categorías Tienda 2 --- 
+ Categoría del Producto
+Muebles                    442
+Electrónicos               422
+Juguetes                   313
+Electrodomésticos          305
+Deportes y diversión       275
+Instrumentos musicales     224
+Libros                     197
+Artículos para el hogar    181
+
+--- Conteo Categorías Tienda 3 --- 
+ Categoría del Producto
+Muebles                    499
+Electrónicos               451
+Juguetes                   315
+Electrodomésticos          278
+Deportes y diversión       277
+Libros                     185
+Instrumentos musicales     177
+Artículos para el hogar    177
+
+--- Conteo Categorías Tienda 4 --- 
+ Categoría del Producto
+Muebles                    480
+Electrónicos               451
+Juguetes                   338
+Deportes y diversión       277
+Electrodomésticos          254
+Artículos para el hogar    201
+Libros                     187
+Instrumentos musicales     170
+
 ![2-1. Ventas por categoría](2-1.%20Ventas%20por%20categoría.png)
 
 ![2-2. Ventas por categoría](2-2.%20Ventas%20por%20categoría.png)
@@ -118,3 +162,57 @@ Objetivo:En este debes calcular la cantidad de productos vendidos por categoría
 ![2-3. Ventas por categoría](2-3.%20Ventas%20por%20categoría.png)
 
 ![2-4. Ventas por categoría](2-4.%20Ventas%20por%20categoría.png)
+
+Notas de las Ventas por categoría:
+
+-Ventas Totales:
+
+El número total de ventas acumuladas en las cuatro tiendas, sumando todas las categorías, es de 9,435 unidades
+
+-Ranking por Categoría basado en las ventas generadas:
+
+1°) Muebles: Lidera con un total de 1,886 ventas
+
+2°) Electrónicos: Sigue con 1,772 ventas
+
+3°) Juguetes: Ocupa el tercer lugar con 1,290 ventas
+
+4°) Electrodomésticos: Registra 1,149 ventas
+
+5°) Deportes y diversión: Suma 1,113 ventas
+
+6°) Instrumentos musicales: Alcanza 753 ventas
+
+7°) Libros: Llega a 742 ventas
+
+8°) Artículos para el hogar: Cierra la lista con 730 ventas
+
+-Diferencias Notables:
+
+Las categorías "Muebles", "Electrónicos" y "Juguetes" son consistentemente las más populares en términos de números de ventas en las cuatro tiendas, ocupando los tres primeros lugares respectivamente en todas ellas. El patrón de igualdad de los puestos se rompe a causa de la Tienda 4, ya que en el cuarto lugar en ventas es la única tienda que no tiene "Electrodomésticos" sino "Deportes y diversión", en consecuencia la Tienda 4 es también la única tienda que tiene en el quinto lugar en ventas "Electrodomésticos" en vez de "Deportes y diversión". Para el sexto lugar en ventas las tiendas 1 y 2 tienen la categoría de "Instrumentos musicales", mientras que en las tiendas 3 y 4 tienen "Libros" y "Articulos para el hogar" respectivamente, en el séptimo lugar en ventas las tiendas 1 y 2 tienen la categoría de "Libros", mientras que en las tiendas 3 y 4 tienen "Instrumentos musicales" y "Libros" respectivamente, ya en el último lugar en ventas las tiendas 1, 2 y 3 tienen la categoría de "Articulos para el hogar", mientras que en la Tienda 4 rompe el patrón de igualdad en los puestos por última vez teniendo la categoría de "Instrumentos musicales"
+
+3. Calificación promedio de la tienda
+
+Objetivo:En este paso, debes calcular las calificaciones promedio de los clientes para cada tienda. El objetivo es conocer la satisfacción del cliente con los productos vendidos.
+
+![3. Calificación promedio de la tienda](3.%20Calificación%20promedio%20de%20la%20tienda.png)
+
+Notas de la Calificación promedio de la tienda:
+
+-Calificaciones Totales:
+
+La calificación promedio general, considerando las cuatro tiendas, es de aproximadamente 4.02 puntos (promedio de 3.98, 4.04, 4.05 y 4.00)
+
+-Ranking por Tienda basado en calificación promedio:
+
+1°) Tienda 3: Lidera con una calificación promedio de 4.05 puntos
+
+2°) Tienda 2: Sigue muy de cerca con 4.04 puntos
+
+3°) Tienda 4: Ocupa el tercer lugar con 4.00 puntos
+
+4°) Tienda 1: Registra la menor calificación promedio con 3.98 puntos
+
+-Diferencias Notables:
+
+Las calificaciones promedio entre las tiendas son extremadamente similares, todas rondando los 4.0 puntos sobre 5. La diferencia entre la tienda con la calificación más alta, la Tienda 3 y la más baja, la Tienda 1 es mínima (solo 0.07 puntos). Esto sugiere un nivel de satisfacción del cliente bastante homogéneo y generalmente positivo en las cuatro tiendas
