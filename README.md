@@ -112,3 +112,9 @@ Aunque todas las tiendas superan los USD 1 Millón en ingresos, la diferencia en
 Objetivo:En este debes calcular la cantidad de productos vendidos por categoría en cada tienda. La idea es agrupar los datos por categoría y contar el número de ventas de cada tipo, mostrando las categorías más populares de cada tienda.
 
 ![2-1. Ventas por categoría](2-1.%20Ventas%20por%20categoría.png)
+
+![2-2. Ventas por categoría](2-2.%20Ventas%20por%20categoría.png)
+
+![2-3. Ventas por categoría](2-3.%20Ventas%20por%20categoría.png)
+
+![2-4. Ventas por categoría](2-4.%20Ventas%20por%20categoría.png)
