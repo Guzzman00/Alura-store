@@ -79,8 +79,36 @@ El notebook `AluraStoreLatam.ipynb` está organizado en las siguientes secciones
 * Lee el informe final para entender la inclinación de venta basada en los datos.
 * Puedes modificar parámetros en el código (ej. colores de gráficos, parámetros de heatmap, número de productos en Top/Anti Top) y re-ejecutar para explorar variaciones.
 
-📺 **Vista**
+🎨 Vista Previa
 
-* Las visualizaciones generadas (gráficos de barras, mapas de calor) se muestran directamente en las celdas de salida del notebook `AluraStoreLatam.ipynb` después de ejecutar el código correspondiente.
+1. Análisis de facturación
 
-![Análisis de Facturación](1.%20An%C3%A1lisis%20de%20facturaci%C3%B3n.png)
+Objetivo:En este primer análisis, debes calcular el ingreso total de cada tienda. Sumando los valores de la columna Precio de cada conjunto de datos de la tienda para estimar los ingresos.
+
+![1. Análisis de facturación](1.%20An%C3%A1lisis%20de%20facturaci%C3%B3n.png)
+
+Notas del Análisis de facturación:
+
+-Ingresos Totales:
+
+La facturación combinada de las cuatro tiendas asciende aproximadamente a $4,403 Millones de dolares (suma de USD 1,151M + USD 1,116M + USD 1,098M + USD 1,038M)
+
+-Ranking por Tienda basado en ingreso generado:
+
+1°)Tienda 1: Lidera con aprox. USD 1,151M
+
+2°)Tienda 2: Sigue con aprox. USD 1,116M
+
+3°)Tienda 3: Ocupa el tercer lugar con aprox. USD 1,098M
+
+4°)Tienda 4: Registra los menores ingresos con aprox. USD 1,038M
+
+-Diferencias Notables:
+
+Aunque todas las tiendas superan los USD 1 Millón en ingresos, la diferencia entre la tienda de mayor rendimiento, la Tienda 1 y la de menor rendimiento, la Tienda 4 es significativa, alcanzando aproximadamente USD 113 Millones. Las Tiendas 2 y 3 presentan ingresos bastante similares entre sí
+
+2. Ventas por categoría
+
+Objetivo:En este debes calcular la cantidad de productos vendidos por categoría en cada tienda. La idea es agrupar los datos por categoría y contar el número de ventas de cada tipo, mostrando las categorías más populares de cada tienda.
+
+![2-1. Ventas por categoría](2-1.%20Ventas%20por%20categoría.png)
