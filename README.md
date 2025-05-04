@@ -111,50 +111,6 @@ Aunque todas las tiendas superan los USD 1 Millón en ingresos, la diferencia en
 
 Objetivo:En este debes calcular la cantidad de productos vendidos por categoría en cada tienda. La idea es agrupar los datos por categoría y contar el número de ventas de cada tipo, mostrando las categorías más populares de cada tienda.
 
---- Conteo Categorías Tienda 1 --- 
- Categoría del Producto
-Muebles                    465
-Electrónicos               448
-Juguetes                   324
-Electrodomésticos          312
-Deportes y diversión       284
-Instrumentos musicales     182
-Libros                     173
-Artículos para el hogar    171
-
---- Conteo Categorías Tienda 2 --- 
- Categoría del Producto
-Muebles                    442
-Electrónicos               422
-Juguetes                   313
-Electrodomésticos          305
-Deportes y diversión       275
-Instrumentos musicales     224
-Libros                     197
-Artículos para el hogar    181
-
---- Conteo Categorías Tienda 3 --- 
- Categoría del Producto
-Muebles                    499
-Electrónicos               451
-Juguetes                   315
-Electrodomésticos          278
-Deportes y diversión       277
-Libros                     185
-Instrumentos musicales     177
-Artículos para el hogar    177
-
---- Conteo Categorías Tienda 4 --- 
- Categoría del Producto
-Muebles                    480
-Electrónicos               451
-Juguetes                   338
-Deportes y diversión       277
-Electrodomésticos          254
-Artículos para el hogar    201
-Libros                     187
-Instrumentos musicales     170
-
 ![2-1. Ventas por categoría](2-1.%20Ventas%20por%20categoría.png)
 
 ![2-2. Ventas por categoría](2-2.%20Ventas%20por%20categoría.png)
