@@ -237,14 +237,17 @@ Tienda 2:
 
 Obtuvo +23 puntos por sus productos top 5, pero -24 puntos por sus productos anti-top 5
 Puntaje final: -1 punto
+
 Tienda 4:
 
 Sumó +8 puntos por sus productos top 5 y restó -12 puntos por sus productos anti-top 5
 Puntaje final: -4 puntos
+
 Tienda 3:
 
 No obtuvo puntos positivos (sin productos top 5) y restó -6 puntos por sus productos anti-top 5
 Puntaje final: -6 puntos
+
 Tienda 1:
 
 Consiguió +9 puntos por sus productos top 5 y acumuló la mayor penalización -18 puntos por sus productos anti-top 5
